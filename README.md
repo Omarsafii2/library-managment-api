@@ -1,4 +1,4 @@
-#Overview
+Overview
 
 The Library Management API is a RESTful API built with Node.js, Express, and MySQL. It allows users to manage books, authors, and user authentication. The API follows clean architectural principles and implements Observer, Singleton, and Factory Design Patterns to ensure scalability and maintainability.
 
